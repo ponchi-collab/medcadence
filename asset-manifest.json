@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/medcadence/static/js/main.85ac60e5.js",
+    "index.html": "/medcadence/index.html",
+    "main.85ac60e5.js.map": "/medcadence/static/js/main.85ac60e5.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.85ac60e5.js"
+  ]
+}
